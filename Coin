@@ -1,0 +1,4 @@
+import random
+
+coin = random.choices(["heads", "tails"])
+print(coin)
